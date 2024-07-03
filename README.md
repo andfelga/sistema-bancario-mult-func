@@ -17,3 +17,8 @@
 <br>
 
 ![Comandos Git](Cherry-peak_dev-s3.png)
+
+# Ejercicio 4
+<br>
+
+![Comandos Git](Pull_request.png)
